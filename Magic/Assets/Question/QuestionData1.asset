@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c511a5709d8d79e458229ce710923137, type: 3}
+  m_Name: QuestionData1
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\u6708\u6843\u6709\u751A\u9EBC\u529F\u6548?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    options:
+    - "\u9632\u86C0\u7259"
+    - "\u6CBB\u7642\u75D4\u7621"
+    - "\u9632COVID-19"
+    - "\u6297\u764C"
+    correctAns: "\u6297\u764C"
+  - questionInfo: "\u6708\u6843\u82F1\u6587"
+    questionType: 0
+    questionImg: {fileID: 0}
+    options:
+    - Shell ginger
+    - Alphaginger
+    - Moon peach
+    - Moon ginger
+    correctAns: Shell ginger
+  - questionInfo: "\u6708\u6843\u958B\u82B1\u6642\uFF0C\u56E0\u70BA\u82B1\u74E3\u5167\u5074\u7D05\u8272\u8207\u9EC3\u8272\u4EA4\u932F\uFF0C\u6240\u4EE5\u5225\u540D\u53C8\u53EB\u751A\u9EBC?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    options:
+    - "\u6708\u6843\u6708\u9060"
+    - "\u864E\u5B50\u82B1"
+    - "\u7D05\u9EC3\u82B1"
+    - "\u756A\u8304\u7092\u86CB"
+    correctAns: "\u864E\u5B50\u82B1"
+  - questionInfo: "\u672C\u7D44\u8AB0\u6700\u5E25"
+    questionType: 0
+    questionImg: {fileID: 0}
+    options:
+    - "\u5433\u4FE1\u8F1D"
+    - "\u7FC1\u582F\u5EF7"
+    - "\u9EC3\u7AD1\u7A0B"
+    - "\u8A79\u5049\u88D5"
+    correctAns: "\u5433\u4FE1\u8F1D"
+  - questionInfo: "AR\u6383\u4E86\u5C08\u984C\u6D77\u5831\u6703\u51FA\u73FE\u751A\u9EBC?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    options:
+    - "\u4E00\u4F4D\u5E25\u54E5"
+    - "\u4E00\u4F4D\u919C\u7537"
+    - "\u4E00\u4F4D\u7F8E\u5973"
+    - "\u4E00\u500B\u6A5F\u5668\u4EBA"
+    correctAns: "\u4E00\u4F4D\u5E25\u54E5"
+  - questionInfo: "\u4E0B\u5217\u54EA\u500B\u9078\u9805\u6700\u9069\u5408\u6708\u6843\u751F\u9577?"
+    questionType: 1
+    questionImg: {fileID: 0}
+    options:
+    - "\u9AD8\u539F"
+    - "\u6C99\u6F20"
+    - "\u6D77\u4E2D"
+    - "\u4E18\u9675"
+    correctAns: "\u4E18\u9675"
+  - questionInfo: "\u6708\u6843\u4E0D\u53EF\u4EE5\u505A\u6210\u751A\u9EBC"
+    questionType: 0
+    questionImg: {fileID: 0}
+    options:
+    - "\u5E3D\u5B50"
+    - "\u773C\u93E1"
+    - "\u5305\u7CBD\u5B50"
+    - "\u7576\u4E2D\u85E5"
+    correctAns: "\u773C\u93E1"
+  - questionInfo: 2+2
+    questionType: 0
+    questionImg: {fileID: 0}
+    options:
+    - 4
+    - 5
+    - 6
+    - 7
+    correctAns: 4
+  - questionInfo: 3+3
+    questionType: 0
+    questionImg: {fileID: 0}
+    options:
+    - 6
+    - 7
+    - 8
+    - 9
+    correctAns: 6
+  - questionInfo: 4 x 4
+    questionType: 0
+    questionImg: {fileID: 0}
+    options:
+    - 16
+    - 256
+    - 44
+    - 8
+    correctAns: 4
